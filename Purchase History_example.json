@@ -1,0 +1,36 @@
+[{
+    "purchaseHistory": {
+      "invoicePrice": "CA$2.49",
+      "userLanguageCode": "en_US",
+      "userCountry": "CA",
+      "doc": {
+        "documentType": "Tv Episode",
+        "title": "Silicon Valley - Binding Arbitration"
+      },
+      "purchaseTime": "2015-08-01T06:30:37.352Z"
+    }
+  },
+{
+  "purchaseHistory": {
+    "invoicePrice": "CA$6.99",
+    "userLanguageCode": "en_CA",
+    "userCountry": "CA",
+    "doc": {
+      "documentType": "Movie",
+      "title": "The Interview"
+    },
+    "purchaseTime": "2014-12-25T07:08:42.502Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "CA$2.49",
+    "userLanguageCode": "en_CA",
+    "userCountry": "CA",
+    "doc": {
+      "documentType": "Tv Episode",
+      "title": "Sons of Anarchy - Black Widower"
+    },
+    "purchaseTime": "2014-12-14T02:46:09.098Z"
+  }
+}]
